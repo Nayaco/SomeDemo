@@ -1,0 +1,15 @@
+.AppIndex {
+  width: 100%;
+}
+
+.Title {
+  font-size: 1.5rem;
+  color: #dfdfdf;
+  font-family: 'Roboto', sans-serif;
+}
+.Date {
+  font-size: 1.3rem;
+  color: #dfdfdf;
+  font-family: 'Roboto', sans-serif;
+}
+
